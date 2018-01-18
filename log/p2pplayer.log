@@ -1,0 +1,8 @@
+2018-01-18 22:25:24,271 - xzs - DEBUG - Hello xzs - [log_init.py:7]
+2018-01-18 22:25:24,272 - root - INFO - Hello root - [log_init.py:10]
+2018-01-18 22:25:24,272 - root - INFO - logging start - [log_init.py:13]
+2018-01-18 22:27:09,906 - xzs - DEBUG - Hello xzs - [log_init.py:8]
+2018-01-18 22:27:09,906 - root - INFO - Hello root - [log_init.py:11]
+2018-01-18 22:27:09,906 - root - INFO - logging start - [log_init.py:12]
+2018-01-18 23:21:16,076 - log_from_file - INFO - log - [log_from_conf.py:12]
+2018-01-18 23:33:48,145 - log_from_file - INFO - log-------2018-01-18T23:33:48.145414+08:00 - [log_from_conf.py:14]
